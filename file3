@@ -1,1 +1,17 @@
-this is an update
+Cloud computing is defined as the practice of using a network of remote servers hosted on the internet in order to store, process and manage.
+
+ON-PREMISE VS CLOUD COMPUTING
+
+1. On-premise infrastructure involves hosting all IT resources locally on your organization's hardware, allowing full control but requiring more hands-on maintenance. Cloud computing relies on third-party hosting of resources accessed remotely via the internet.
+
+2. On-premise has higher initial setup costs but more security and independence, while cloud computing has lower costs and instant scalability but dependence on an external provider.
+
+3. Security and regulatory compliance favors on-premise, while flexibility, scalability and cost favor cloud computing
+
+ADVANTAGES OF ON-PREMISES ENVIRONMENT 
+
+1. Greater Security: The systems and data are entirely in your control, you avoid exposing confidential information to outside cloud providers.
+
+2. Easier compliance with regulations: Rather than trusting that a cloud vendor appropriately secures data according to your industry's rules, on-premise environments allow direct verification that all controls and policies are followed.
+
+3. Independence from internet issues: Downtime risks from internet failures or regional outages do not impact your ability to use business-critical systems and information   
